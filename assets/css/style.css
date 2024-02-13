@@ -1,0 +1,85 @@
+body{
+    background: rgb(248, 232, 194);
+}
+
+.receita-container {
+    width: 500px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 25px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    display: block;
+    text-align: center;
+    border-radius: 6px;
+    margin: 0 auto; /* Centraliza a imagem */
+    max-width: 80%; /* Garante que a imagem não ultrapasse o contêiner */
+}
+
+.space {
+    background: rgba(247, 171, 247, 0.468);
+    margin: 0 auto;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(236, 155, 212);
+}
+
+.space h3{
+    color: rgb(118, 2, 68);
+    margin-top: -10px;
+    position: absolute;
+}
+
+.topics span{
+    font-weight: bold;
+}
+
+.topics {
+    color: rgba(208, 19, 208, 0.706);
+}
+
+.texte1{
+    color: black;
+    font-size: 13.5px;
+}
+
+h2{
+    color: rgb(136, 93, 36);
+}
+
+.topics2 {
+    color: rgb(218, 162, 82);
+}
+
+
+hr{
+    width: 470px;
+}
+
+
+.topics3 {
+    color: rgb(81, 49, 8);
+}
+
+.topics3 span{
+    font-weight: bold;
+}
+
+.valor {
+    display: flex; 
+    justify-content: space-between;
+}
+
+.quanti {
+    margin-left: auto;
+    color: rgb(145, 94, 26);
+    font-weight: bold;
+}
+
+.line2 {
+    width: 510px;;
+}
